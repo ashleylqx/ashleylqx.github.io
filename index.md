@@ -4,19 +4,21 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an assistant professor at Communication University of China. I received my Ph.D. degree from the Department of Computer Science and Engineering, the Chinese University of Hong Kong in 2021. Before that, I received the M.S. and B.E. degrees from the School of Automation, Huazhong University of Science and Technology, in 2016 and 2013, respectively. I was an intern at Inception Institute of Artificial Intelligence, UAE from Jun. 2019 to Dec. 2019.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** image recognition, attention mechanism
+- **Machine Learning:** representation learning, continual learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sep. 2024]** Our paper about continual learning is accepted to NeurIPS 2024.
+- **[Sep. 2024]** Our paper about representation learning is accepted to CVIU.
+- **[Aug. 2024]** I will serve as a reviewer of AAAI 2025 and ICLR 2025.
+- **[May. 2024]** I will serve as a reviewer of NeurIPS 2024.
+- **[Feb. 2024]** Our paper about remote sensing detection is accepted to CVPR 2024.
+- **[Dec. 2023]** I will serve as a reviewer of CVPR 2024 and ICML 2024.
 
 {% include_relative _includes/publications.md %}
 

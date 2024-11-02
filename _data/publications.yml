@@ -1,22 +1,118 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Vector Quantization Prompting for Rehearsal-Free Continual Learning
+    authors: Li Jiao, <strong>Qiuxia Lai <sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Yu Li, Qiang Xu ( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2410.20444
+    code: https://github.com/jiaolifengmi/VQ-Prompt
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/VQPrompt.png
+    # notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  - title: "Spatial Attention for Human-Centric Visual Understanding: An Information Bottleneck Method"
+    authors: <strong>Qiuxia Lai</strong>, Yongwei Nie, Yu Li, Hanqiu Sun, Qiang Xu
+    conference_short: CVIU
+    conference: Computer Vision and Image Understanding <strong>(CVIU)</strong>, 2024.
+    pdf: https://doi.org/10.1016/j.cviu.2024.104180
+    code: https://github.com/ashleylqx/AIB-Ex
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/AIB_Ex.png
+
+  - title: Poly Kernel Inception Network for Remote Sensing Detection
+    authors: Xinhao Cai*, <strong>Qiuxia Lai*</strong>, Yuwei Wang*, Wenguan Wang, Zeren Sun, Yazhou Yao (* Equal contribution)
     conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    conference: IEEE / CVF Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, 2024.
+    pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Cai_Poly_Kernel_Inception_Network_for_Remote_Sensing_Detection_CVPR_2024_paper.pdf
+    code: https://github.com/PKINet/PKINet.png
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/PKINet.png
+    # notes: Early Accept
+
+  - title: "Self-supervised Video Representation Learning via Capturing Semantic Changes Indicated by Saccades"
+    authors: <strong>Qiuxia Lai</strong>, Ailing Zeng, Ye Wang, Lihong Cao, Yu Li, Qiang Xu
+    conference_short: TCSVT
+    conference: IEEE Trans. on Circuits and Systems for Video Technology <strong>(IEEE TCSVT)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/document/10168973/
+    code: https://github.com/ashleylqx/Saccades-VSSL
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/SaccadeSSL.png
+
+  - title: "Weakly Supervised Visual Saliency Prediction"
+    authors: <strong>Qiuxia Lai</strong>, Tianfei Zhou, Salman Khan, Hanqiu Sun, Jianbing Shen, Ling Shao
+    conference_short: TIP
+    conference: IEEE Trans. on Image Processing <strong>(IEEE TIP)</strong>, 2022.
+    pdf: https://ieeexplore.ieee.org/document/9749931
+    code: https://github.com/ashleylqx/WeakFixation
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/WeakFixation.png
+
+  - title: Information Bottleneck Approach to Spatial Attention Learning
+    authors: <strong>Qiuxia Lai</strong>, Yu Li, Ailing Zeng, Minhao Liu, Hanqiu Sun, Qiang Xu
+    conference_short: IJCAI
+    conference: International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2021.
+    pdf: https://www.ijcai.org/proceedings/2021/0108.pdf
+    code: https://github.com/ashleylqx/AIB
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/AIB.png
+    # notes: Early Accept
+
+  - title: "Salient object detection in the deep learning era: An in-depth survey"
+    authors: Wenguan Wang, <strong>Qiuxia Lai</strong>, Huazhu Fu, Jianbing Shen, Haibin Ling, Ruigang Yang
+    conference_short: TPAMI
+    conference: IEEE Trans. on Pattern Analysis and Machine Intelligence <strong>(IEEE TPAMI)</strong>, 2021.
+    pdf: https://arxiv.org/pdf/1904.09146
+    code: https://github.com/wenguanwang/SODsurvey
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/SOD_Survey.png
+
+  - title: "Understanding more about human and machine attention in deep neural networks"
+    authors: <strong>Qiuxia Lai</strong>, Salman Khan, Yongwei Nie, Hanqiu Sun, Jianbing Shen, Ling Shao
+    conference_short: TMM
+    conference: IEEE Trans. on Multimedia <strong>(IEEE TMM)</strong>, 2020.
+    pdf: http://arxiv.org/pdf/1906.08764
+    # code: https://github.com/ashleylqx/Saccades-VSSL
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/HumanVSMachine.png
+
+  - title: "Video super-resolution via pre-frame constrained and deep-feature enhanced sparse reconstruction"
+    authors: <strong>Qiuxia Lai</strong>, Yongwei Nie, Hanqiu Sun, Qiang Xu, Zhensong Zhang, Mingyu Xiao
+    conference_short: PR
+    conference: Pattern Recognition <strong>(PR)</strong>, 2020.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0031320319304406
+    # code: https://github.com/ashleylqx/Saccades-VSSL
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/VSR.png
+
+  - title: "Video saliency prediction using spatiotemporal residual attentive networks"
+    authors: <strong>Qiuxia Lai</strong>, Wenguan Wang, Hanqiu Sun, Jianbing Shen
+    conference_short: TIP
+    conference: IEEE Trans. on Image Processing <strong>(IEEE TIP)</strong>, 2019.
+    pdf: https://ieeexplore.ieee.org/abstract/document/8811731/
+    code: https://github.com/ashleylqx/STRA-Net
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/VSP.png
+
+  - title: Temporal coherent video super-resolution via pre-frame-constrained sparse reconstruction
+    authors: <strong>Qiuxia Lai</strong>, Yongwei Nie, Zhensong Zhang, Hanqiu Sun
+    conference_short: CGI
+    conference: Computer Graphics International <strong>(CGI)</strong>, 2018.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3208159.3208167
+    # code: https://github.com/ashleylqx/AIB
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/VSR_short.jpg
+    # notes: Early Accept
