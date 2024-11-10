@@ -12,7 +12,7 @@ I am an assistant professor at Communication University of China. I received my 
 - **Machine Learning:** representation learning, continual learning
 
 ## News
-
+<!-- - **[Nov. 2024]** I will serve as a reviewer of CVPR 2025. -->
 - **[Sep. 2024]** Our paper about continual learning is accepted to NeurIPS 2024.
 - **[Sep. 2024]** Our paper about representation learning is accepted to CVIU.
 - **[Aug. 2024]** I will serve as a reviewer of AAAI 2025 and ICLR 2025.

@@ -23,4 +23,5 @@
   <li>IEEE Trans. on Multimedia (TMM)</li>
   <li>IEEE Trans. on Circuits and Systems for Video Technology (TCSVT)</li>
   <li>Pattern Recognition (PR)</li>
+  <li>Neurocomputing</li>
 </ul>
