@@ -1,5 +1,25 @@
 main:
 
+  - title: Cycle-Consistent Learning for Joint Layout-to-Image Generation and Object Detection
+    authors: Xinhao Cai*, <strong>Qiuxia Lai*</strong>, Gengsheng Pei, Xiangbo Shu, Yazhou Yao, Wenguan Wang (* Equal contribution)
+    conference_short: ICCV
+    conference: IEEE International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
+    # pdf: ''
+    # code: https://github.com/NUST-Machine-Intelligence-Laboratory/GDCC
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/GDCC.png
+    # notes: Early Accept
+
+  - title: A Conditional Probability Framework for Compositional Zero-shot Learning
+    authors: Peng Wu*, <strong>Qiuxia Lai*</strong>, Hao Fang, Guo-Sen Xie, Yilong Yin, Xiankai Lu, Wenguan Wang (* Equal contribution)
+    conference_short: ICCV
+    conference: IEEE International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2507.17377
+    code: https://github.com/Pieux0/CPF
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/CPF.png
+    # notes: Early Accept
+
   - title: Vector Quantization Prompting for Rehearsal-Free Continual Learning
     authors: Li Jiao, <strong>Qiuxia Lai <sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Yu Li, Qiang Xu ( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
     conference_short: NeurIPS
@@ -26,7 +46,7 @@ main:
     conference_short: CVPR
     conference: IEEE / CVF Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, 2024.
     pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Cai_Poly_Kernel_Inception_Network_for_Remote_Sensing_Detection_CVPR_2024_paper.pdf
-    code: https://github.com/PKINet/PKINet.png
+    code: https://github.com/Strike-1999/PKINet
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/PKINet.png
     # notes: Early Accept
