@@ -1,5 +1,15 @@
 main:
 
+  - title: Temporal Consistency-Aware Text-to-Motion Generation
+    authors: Hongsong Wang, Wenjing Yan,  <strong>Qiuxia Lai <sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Xin Geng ( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
+    conference_short: VI
+    conference: Visual Intelligence <strong>(VI)</strong>, 2026.
+    pdf: https://link.springer.com/content/pdf/10.1007/s44267-026-00110-8.pdf
+    code: https://github.com/EricGuo5513/HumanML3D
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/TCaS.png
+    # notes: Early Accept
+  
   - title: Cycle-Consistent Learning for Joint Layout-to-Image Generation and Object Detection
     authors: Xinhao Cai*, <strong>Qiuxia Lai*</strong>, Gengsheng Pei, Xiangbo Shu, Yazhou Yao, Wenguan Wang (* Equal contribution)
     conference_short: ICCV
