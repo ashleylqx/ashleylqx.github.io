@@ -4,7 +4,7 @@ main:
     authors: Xinhao Cai*, <strong>Qiuxia Lai*</strong>, Gengsheng Pei, Xiangbo Shu, Yazhou Yao, Wenguan Wang (* Equal contribution)
     conference_short: ICCV
     conference: IEEE International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
-    # pdf: ''
+    pdf: https://openaccess.thecvf.com/content/ICCV2025/papers/Cai_Cycle-Consistent_Learning_for_Joint_Layout-to-Image_Generation_and_Object_Detection_ICCV_2025_paper.pdf
     # code: https://github.com/NUST-Machine-Intelligence-Laboratory/GDCC
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/GDCC.png
@@ -14,7 +14,7 @@ main:
     authors: Peng Wu*, <strong>Qiuxia Lai*</strong>, Hao Fang, Guo-Sen Xie, Yilong Yin, Xiankai Lu, Wenguan Wang (* Equal contribution)
     conference_short: ICCV
     conference: IEEE International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2507.17377
+    pdf: https://openaccess.thecvf.com/content/ICCV2025/papers/Wu_A_Conditional_Probability_Framework_for_Compositional_Zero-shot_Learning_ICCV_2025_paper.pdf
     code: https://github.com/Pieux0/CPF
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/CPF.png

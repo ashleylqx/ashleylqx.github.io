@@ -12,6 +12,7 @@ I am an associate professor at Communication University of China. I received my 
 - **Machine Learning:** representation learning, continual learning
 
 ## News
+- **[Feb. 2026]** Our paper about text-to-motion generation is accepted to Visual Intelligence.
 - **[Jul. 2025]** Our papers about image generation and compositional zero-shot learning are accepted to ICCV 2025.
 <!-- - **[Nov. 2024]** I will serve as a reviewer of CVPR 2025. -->
 - **[Sep. 2024]** Our paper about continual learning is accepted to NeurIPS 2024.
